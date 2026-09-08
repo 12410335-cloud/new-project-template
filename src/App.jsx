@@ -6,7 +6,7 @@ import FeaturesList from "./components/props/FeaturesList";
 function App() {
   return (
     <div className="app">
-      <Navbar title="Pink Study" />
+      <Navbar title="Front-End" />
       <Greetings name="Gracia" />
       <FeaturesList />
     </div>
